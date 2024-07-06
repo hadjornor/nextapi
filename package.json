@@ -1,7 +1,7 @@
 {
   "name": "nextapi",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://hadjornor.github.io/nextapi/",
   "scripts": {
     "dev": "next dev",
