@@ -2,7 +2,7 @@
   "name": "nextapi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hadjornor.gihub.io/nextapi",
+  "homepage": "https://hadjornor.github.io/nextapi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
